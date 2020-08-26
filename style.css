@@ -1,0 +1,18 @@
+.nav-bar {
+    background: linear-gradient(#64e69a, #9198e5);;
+    height: 50px;
+}
+
+.product-image {
+    width: 49%;
+    float: left;
+    border: 1px solid rgb(42, 42, 42);
+}
+.product-info {
+    width: 49%;
+    float: right;
+}
+
+img {
+    width: 100%;
+}
